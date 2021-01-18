@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## How's life
 - 📱 I make shiny rectangles run Linux
-- 💻 Currently working on LineageOS, Ubports and Mobian
-- 🩺 Struggling with medicine books
+- 💻 Currently working on GSI Building & Port
+- 🩺 Struggling with Study
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiiyo&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Priiiyo)
