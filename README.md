@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Priiiyo/Priiiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=priiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/priiiyo)
 
 ## How's life
-- 📱 I make shiny rectangles run Linux
 - 💻 Currently working on GSI Building & Port
 - 🩺 Struggling with Study
 
