@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋 this is S M Priiiyo Hossain
-[![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=priiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/smpriiiyo)
+[![smpriiiyo github stats](https://github-readme-stats.vercel.app/api?username=priiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/smpriiiyo)
 
 ## How's life
 - 💻 Currently working on GSI Building & Port
 - 🩺 Struggling with Study
 
 ## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiiyo&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/smpriiiyo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smpriiiyo&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/smpriiiyo)
 
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/smpriiiyo)
