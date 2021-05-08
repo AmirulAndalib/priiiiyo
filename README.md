@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋 this is S M Priiiyo Hossain
-[![smpriiiyo github stats](https://github-readme-stats.vercel.app/api?username=priiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/smpriiiyo)
+[![smpriiiyo github stats](https://github-readme-stats.vercel.app/api?username=smpriiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/smpriiiyo)
 
 ## How's life
 - 💻 Currently working on GSI Building & Port
