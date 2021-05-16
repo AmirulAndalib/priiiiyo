@@ -1,7 +1,7 @@
 
 
 <!--
-**smpriiiyo/smpriiiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priiiiyo/priiiiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there 👋 this is S M Priiiyo Hossain
-[![smpriiiyo github stats](https://github-readme-stats.vercel.app/api?username=smpriiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/smpriiiyo)
+# Hi there 👋 this is S M Priiiiyo Hossain
+[![priiiiyo github stats](https://github-readme-stats.vercel.app/api?username=priiiiyo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/priiiiyo)
 
 ## How's life
 - 💻 Currently working on GSI Building & Port
 - 🩺 Struggling with Study
 
 ## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smpriiiyo&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/smpriiiyo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiiiyo&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/priiiiyo)
 
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/smpriiiyo)
